@@ -4,6 +4,7 @@ GDAL - Geospatial Data Abstraction Library
 [![Build Status](https://travis-ci.com/OSGeo/gdal.svg?branch=master)](https://travis-ci.com/OSGeo/gdal)
 [![Build status](https://ci.appveyor.com/api/projects/status/jtwx0pcr0y01i17p/branch/master?svg=true)](https://ci.appveyor.com/project/OSGeo/gdal)
 [![Build Status](https://scan.coverity.com/projects/749/badge.svg?flat=1)](https://scan.coverity.com/projects/gdal)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKeithRyden%2Fgdal_test.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FKeithRyden%2Fgdal_test?ref=badge_shield)
 [gdalautotest coverage](https://gdalautotest-coverage-results.github.io/coverage_html/index.html)
 
 | Tested configurations    |
@@ -38,3 +39,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 ### Citing GDAL/OGR in publications
 
 See [CITATION](CITATION)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FKeithRyden%2Fgdal_test.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FKeithRyden%2Fgdal_test?ref=badge_large)
